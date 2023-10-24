@@ -3,7 +3,7 @@
 I'm a trained media designer with two and a half years of professional experience as a web developer. Currently I'm going through a six-month bootcamp to specialize in frontend development.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/86231054/277605301-326bc1b2-9197-4ae1-bd26-7979e152a9a4.jpg">
+    <img src="https://user-images.githubusercontent.com/86231054/277630935-ebbb3a41-6a8b-4ee7-bd92-e3064284cbc6.jpg">
 </p>
 
 ## Skills
