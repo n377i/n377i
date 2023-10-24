@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page
+# Welcome to my GitHub page!
 
 I'm a trained media designer with two and a half years of professional experience as a web developer. Currently I'm going through a six-month bootcamp to specialize in frontend development.
 
