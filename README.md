@@ -21,5 +21,5 @@ I'm a trained media designer with two and a half years of professional experienc
 - Figma/Adobe XD/Sketch
 
 ## Tools
-| VSCode | SourceTree | Zeplin | Trello | Jira |
-|--------|------------|--------|--------|------|
+| VSCode | SourceTree | Zeplin | Trello | Jira | Confluence |
+|--------|------------|--------|--------|------|------------|
